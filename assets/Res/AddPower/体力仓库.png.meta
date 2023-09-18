@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9194b30b-666d-4ce1-9cda-ea1bc30bbbcf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 960,
+  "height": 1333,
+  "platformSettings": {},
+  "subMetas": {
+    "体力仓库": {
+      "ver": "1.0.4",
+      "uuid": "3d1f033f-8801-4a24-b318-c24232d5cb5f",
+      "rawTextureUuid": "9194b30b-666d-4ce1-9cda-ea1bc30bbbcf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 960,
+      "height": 1333,
+      "rawWidth": 960,
+      "rawHeight": 1333,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

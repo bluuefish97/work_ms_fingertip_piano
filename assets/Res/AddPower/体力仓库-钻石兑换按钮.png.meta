@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "72fd5df2-ddb9-4962-bb19-6ff065e1625e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 287,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "体力仓库-钻石兑换按钮": {
+      "ver": "1.0.4",
+      "uuid": "ed6a695a-dac8-4179-81c0-dc18bac5da3c",
+      "rawTextureUuid": "72fd5df2-ddb9-4962-bb19-6ff065e1625e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 287,
+      "height": 100,
+      "rawWidth": 287,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

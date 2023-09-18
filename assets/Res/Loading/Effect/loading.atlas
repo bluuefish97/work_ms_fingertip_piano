@@ -1,0 +1,83 @@
+
+loading.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+music1
+  rotate: false
+  xy: 874, 2
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+music10
+  rotate: true
+  xy: 933, 50
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+music2
+  rotate: false
+  xy: 909, 5
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+music3
+  rotate: true
+  xy: 831, 28
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+music4
+  rotate: false
+  xy: 945, 84
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+music5
+  rotate: false
+  xy: 844, 76
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+music6
+  rotate: false
+  xy: 783, 74
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+music7
+  rotate: false
+  xy: 783, 20
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+music8
+  rotate: true
+  xy: 888, 89
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+music9
+  rotate: true
+  xy: 888, 45
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+wuxianpu
+  rotate: false
+  xy: 2, 17
+  size: 779, 109
+  orig: 779, 109
+  offset: 0, 0
+  index: -1

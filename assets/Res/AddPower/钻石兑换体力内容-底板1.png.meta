@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ee520764-6fe0-40e8-ac79-f04c7ea8a2a1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 382,
+  "height": 501,
+  "platformSettings": {},
+  "subMetas": {
+    "钻石兑换体力内容-底板1": {
+      "ver": "1.0.4",
+      "uuid": "ec501437-b4fc-4b08-9188-09a846dfe3d6",
+      "rawTextureUuid": "ee520764-6fe0-40e8-ac79-f04c7ea8a2a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 382,
+      "height": 501,
+      "rawWidth": 382,
+      "rawHeight": 501,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+
+lihe.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lihe
+  rotate: false
+  xy: 2, 386
+  size: 657, 444
+  orig: 657, 444
+  offset: 0, 0
+  index: -1
+zuanshi
+  rotate: false
+  xy: 2, 2
+  size: 697, 382
+  orig: 697, 382
+  offset: 0, 0
+  index: -1
+zuanshi2
+  rotate: true
+  xy: 701, 355
+  size: 475, 296
+  orig: 475, 296
+  offset: 0, 0
+  index: -1

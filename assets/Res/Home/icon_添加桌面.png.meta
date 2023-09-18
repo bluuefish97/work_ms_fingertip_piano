@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ed177723-099c-401c-9720-d5a6bb1cb061",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 122,
+  "height": 127,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_添加桌面": {
+      "ver": "1.0.4",
+      "uuid": "80e8a17c-00b5-4a13-a50b-9d0c6a6bc0db",
+      "rawTextureUuid": "ed177723-099c-401c-9720-d5a6bb1cb061",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 121,
+      "height": 126,
+      "rawWidth": 122,
+      "rawHeight": 127,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

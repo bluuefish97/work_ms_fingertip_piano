@@ -1,0 +1,830 @@
+[
+    {
+        "time": 3680,
+        "pressKey": "light"
+    },
+    {
+        "time": 3950,
+        "pressKey": "light"
+    },
+    {
+        "time": 4189,
+        "pressKey": "light"
+    },
+    {
+        "time": 4540,
+        "pressKey": "light"
+    },
+    {
+        "time": 4960,
+        "pressKey": "light"
+    },
+    {
+        "time": 5690,
+        "pressKey": "light"
+    },
+    {
+        "time": 5980,
+        "pressKey": "light"
+    },
+    {
+        "time": 6259,
+        "pressKey": "light"
+    },
+    {
+        "time": 6560,
+        "pressKey": "light"
+    },
+    {
+        "time": 6910,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 7540,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 8150,
+        "pressKey": "light"
+    },
+    {
+        "time": 8469,
+        "pressKey": "light"
+    },
+    {
+        "time": 8709,
+        "pressKey": "light"
+    },
+    {
+        "time": 8940,
+        "pressKey": "light"
+    },
+    {
+        "time": 9259,
+        "pressKey": "light"
+    },
+    {
+        "time": 9559,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 10149,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 10980,
+        "pressKey": "light"
+    },
+    {
+        "time": 11220,
+        "pressKey": "light"
+    },
+    {
+        "time": 11540,
+        "pressKey": "light"
+    },
+    {
+        "time": 11769,
+        "pressKey": "light"
+    },
+    {
+        "time": 11940,
+        "pressKey": "light"
+    },
+    {
+        "time": 12180,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 12800,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 13610,
+        "pressKey": "light"
+    },
+    {
+        "time": 13870,
+        "pressKey": "light"
+    },
+    {
+        "time": 14090,
+        "pressKey": "light"
+    },
+    {
+        "time": 14400,
+        "pressKey": "light"
+    },
+    {
+        "time": 14750,
+        "pressKey": "light"
+    },
+    {
+        "time": 14980,
+        "pressKey": "light"
+    },
+    {
+        "time": 15220,
+        "pressKey": "light"
+    },
+    {
+        "time": 15460,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 15830,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 16229,
+        "pressKey": "light"
+    },
+    {
+        "time": 16530,
+        "pressKey": "light"
+    },
+    {
+        "time": 16849,
+        "pressKey": "light"
+    },
+    {
+        "time": 17200,
+        "pressKey": "light"
+    },
+    {
+        "time": 17500,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 18249,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 18890,
+        "pressKey": "light"
+    },
+    {
+        "time": 19120,
+        "pressKey": "light"
+    },
+    {
+        "time": 19380,
+        "pressKey": "light"
+    },
+    {
+        "time": 19700,
+        "pressKey": "light"
+    },
+    {
+        "time": 19870,
+        "pressKey": "light"
+    },
+    {
+        "time": 20040,
+        "pressKey": "light"
+    },
+    {
+        "time": 20249,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 20769,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 21049,
+        "pressKey": "light"
+    },
+    {
+        "time": 21569,
+        "pressKey": "light"
+    },
+    {
+        "time": 21740,
+        "pressKey": "light"
+    },
+    {
+        "time": 21910,
+        "pressKey": "light"
+    },
+    {
+        "time": 22380,
+        "pressKey": "light"
+    },
+    {
+        "time": 22670,
+        "pressKey": "light"
+    },
+    {
+        "time": 22940,
+        "pressKey": "light"
+    },
+    {
+        "time": 23260,
+        "pressKey": "light"
+    },
+    {
+        "time": 23580,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 24210,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 24610,
+        "pressKey": "light"
+    },
+    {
+        "time": 25210,
+        "pressKey": "light"
+    },
+    {
+        "time": 25520,
+        "pressKey": "light"
+    },
+    {
+        "time": 26180,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 26750,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 27138,
+        "pressKey": "light"
+    },
+    {
+        "time": 27860,
+        "pressKey": "light"
+    },
+    {
+        "time": 28280,
+        "pressKey": "light"
+    },
+    {
+        "time": 28590,
+        "pressKey": "light"
+    },
+    {
+        "time": 28920,
+        "pressKey": "light"
+    },
+    {
+        "time": 29260,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 30268,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 30690,
+        "pressKey": "light"
+    },
+    {
+        "time": 31080,
+        "pressKey": "light"
+    },
+    {
+        "time": 31410,
+        "pressKey": "light"
+    },
+    {
+        "time": 31960,
+        "pressKey": "light"
+    },
+    {
+        "time": 32240,
+        "pressKey": "light"
+    },
+    {
+        "time": 32549,
+        "pressKey": "light"
+    },
+    {
+        "time": 33110,
+        "pressKey": "light"
+    },
+    {
+        "time": 33400,
+        "pressKey": "light"
+    },
+    {
+        "time": 33730,
+        "pressKey": "light"
+    },
+    {
+        "time": 33930,
+        "pressKey": "light"
+    },
+    {
+        "time": 34240,
+        "pressKey": "light"
+    },
+    {
+        "time": 34730,
+        "pressKey": "light"
+    },
+    {
+        "time": 35220,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 36260,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 36850,
+        "pressKey": "light"
+    },
+    {
+        "time": 37380,
+        "pressKey": "light"
+    },
+    {
+        "time": 37930,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 38910,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 39450,
+        "pressKey": "light"
+    },
+    {
+        "time": 39840,
+        "pressKey": "light"
+    },
+    {
+        "time": 40030,
+        "pressKey": "light"
+    },
+    {
+        "time": 40230,
+        "pressKey": "light"
+    },
+    {
+        "time": 40490,
+        "pressKey": "light"
+    },
+    {
+        "time": 40680,
+        "pressKey": "light"
+    },
+    {
+        "time": 40940,
+        "pressKey": "light"
+    },
+    {
+        "time": 41120,
+        "pressKey": "light"
+    },
+    {
+        "time": 41400,
+        "pressKey": "light"
+    },
+    {
+        "time": 41630,
+        "pressKey": "light"
+    },
+    {
+        "time": 42058,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 43498,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 43978,
+        "pressKey": "light"
+    },
+    {
+        "time": 44160,
+        "pressKey": "light"
+    },
+    {
+        "time": 44320,
+        "pressKey": "light"
+    },
+    {
+        "time": 44588,
+        "pressKey": "light"
+    },
+    {
+        "time": 44910,
+        "pressKey": "light"
+    },
+    {
+        "time": 45190,
+        "pressKey": "light"
+    },
+    {
+        "time": 45410,
+        "pressKey": "light"
+    },
+    {
+        "time": 46398,
+        "pressKey": "light"
+    },
+    {
+        "time": 46598,
+        "pressKey": "light"
+    },
+    {
+        "time": 46868,
+        "pressKey": "light"
+    },
+    {
+        "time": 47110,
+        "pressKey": "light"
+    },
+    {
+        "time": 47380,
+        "pressKey": "light"
+    },
+    {
+        "time": 47920,
+        "pressKey": "light"
+    },
+    {
+        "time": 48240,
+        "pressKey": "light"
+    },
+    {
+        "time": 48840,
+        "pressKey": "light"
+    },
+    {
+        "time": 49090,
+        "pressKey": "light"
+    },
+    {
+        "time": 49390,
+        "pressKey": "light"
+    },
+    {
+        "time": 49830,
+        "pressKey": "light"
+    },
+    {
+        "time": 50090,
+        "pressKey": "light"
+    },
+    {
+        "time": 50297,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 51597,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 51890,
+        "pressKey": "light"
+    },
+    {
+        "time": 52150,
+        "pressKey": "light"
+    },
+    {
+        "time": 52390,
+        "pressKey": "light"
+    },
+    {
+        "time": 52730,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 53827,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 54100,
+        "pressKey": "light"
+    },
+    {
+        "time": 54370,
+        "pressKey": "light"
+    },
+    {
+        "time": 54620,
+        "pressKey": "light"
+    },
+    {
+        "time": 54890,
+        "pressKey": "light"
+    },
+    {
+        "time": 55257,
+        "pressKey": "light"
+    },
+    {
+        "time": 55620,
+        "pressKey": "light"
+    },
+    {
+        "time": 55900,
+        "pressKey": "light"
+    },
+    {
+        "time": 56190,
+        "pressKey": "light"
+    },
+    {
+        "time": 56910,
+        "pressKey": "light"
+    },
+    {
+        "time": 57270,
+        "pressKey": "light"
+    },
+    {
+        "time": 57440,
+        "pressKey": "light"
+    },
+    {
+        "time": 57820,
+        "pressKey": "light"
+    },
+    {
+        "time": 57990,
+        "pressKey": "light"
+    },
+    {
+        "time": 58580,
+        "pressKey": "light"
+    },
+    {
+        "time": 58890,
+        "pressKey": "light"
+    },
+    {
+        "time": 59550,
+        "pressKey": "light"
+    },
+    {
+        "time": 59900,
+        "pressKey": "light"
+    },
+    {
+        "time": 60090,
+        "pressKey": "light"
+    },
+    {
+        "time": 60420,
+        "pressKey": "light"
+    },
+    {
+        "time": 60690,
+        "pressKey": "light"
+    },
+    {
+        "time": 61000,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 62337,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 62617,
+        "pressKey": "light"
+    },
+    {
+        "time": 62830,
+        "pressKey": "light"
+    },
+    {
+        "time": 63150,
+        "pressKey": "light"
+    },
+    {
+        "time": 63640,
+        "pressKey": "light"
+    },
+    {
+        "time": 64150,
+        "pressKey": "light"
+    },
+    {
+        "time": 64930,
+        "pressKey": "light"
+    },
+    {
+        "time": 65190,
+        "pressKey": "light"
+    },
+    {
+        "time": 65370,
+        "pressKey": "light"
+    },
+    {
+        "time": 65787,
+        "pressKey": "light"
+    },
+    {
+        "time": 66107,
+        "pressKey": "light"
+    },
+    {
+        "time": 66720,
+        "pressKey": "light"
+    },
+    {
+        "time": 67040,
+        "pressKey": "light"
+    },
+    {
+        "time": 67270,
+        "pressKey": "light"
+    },
+    {
+        "time": 67600,
+        "pressKey": "light"
+    },
+    {
+        "time": 67900,
+        "pressKey": "light"
+    },
+    {
+        "time": 68210,
+        "pressKey": "light"
+    },
+    {
+        "time": 68560,
+        "pressKey": "light"
+    },
+    {
+        "time": 69170,
+        "pressKey": "light"
+    },
+    {
+        "time": 69550,
+        "pressKey": "light"
+    },
+    {
+        "time": 69900,
+        "pressKey": "light"
+    },
+    {
+        "time": 70220,
+        "pressKey": "light"
+    },
+    {
+        "time": 70520,
+        "pressKey": "light"
+    },
+    {
+        "time": 70920,
+        "pressKey": "light"
+    },
+    {
+        "time": 71240,
+        "pressKey": "light"
+    },
+    {
+        "time": 71900,
+        "pressKey": "light"
+    },
+    {
+        "time": 72260,
+        "pressKey": "light"
+    },
+    {
+        "time": 72520,
+        "pressKey": "light"
+    },
+    {
+        "time": 72890,
+        "pressKey": "light"
+    },
+    {
+        "time": 73200,
+        "pressKey": "light"
+    },
+    {
+        "time": 73540,
+        "pressKey": "light"
+    },
+    {
+        "time": 73840,
+        "pressKey": "light"
+    },
+    {
+        "time": 74200,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 75226,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 75640,
+        "pressKey": "light"
+    },
+    {
+        "time": 76050,
+        "pressKey": "light"
+    },
+    {
+        "time": 76240,
+        "pressKey": "light"
+    },
+    {
+        "time": 77220,
+        "pressKey": "light"
+    },
+    {
+        "time": 77580,
+        "pressKey": "light"
+    },
+    {
+        "time": 77910,
+        "pressKey": "light"
+    },
+    {
+        "time": 78220,
+        "pressKey": "light"
+    },
+    {
+        "time": 78530,
+        "pressKey": "light"
+    },
+    {
+        "time": 78830,
+        "pressKey": "light"
+    },
+    {
+        "time": 79180,
+        "pressKey": "light"
+    },
+    {
+        "time": 79890,
+        "pressKey": "light"
+    },
+    {
+        "time": 80240,
+        "pressKey": "light"
+    },
+    {
+        "time": 80530,
+        "pressKey": "light"
+    },
+    {
+        "time": 80890,
+        "pressKey": "light"
+    },
+    {
+        "time": 81190,
+        "pressKey": "light"
+    },
+    {
+        "time": 81510,
+        "pressKey": "light"
+    },
+    {
+        "time": 81890,
+        "pressKey": "light"
+    },
+    {
+        "time": 82580,
+        "pressKey": "light"
+    },
+    {
+        "time": 82890,
+        "pressKey": "light"
+    },
+    {
+        "time": 83160,
+        "pressKey": "light"
+    },
+    {
+        "time": 83540,
+        "pressKey": "light"
+    },
+    {
+        "time": 83860,
+        "pressKey": "light"
+    },
+    {
+        "time": 84220,
+        "pressKey": "light"
+    },
+    {
+        "time": 84530,
+        "pressKey": "light"
+    },
+    {
+        "time": 84890,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 86050,
+        "pressKey": "heavy"
+    }
+]

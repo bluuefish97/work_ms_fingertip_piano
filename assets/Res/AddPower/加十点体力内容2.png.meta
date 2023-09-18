@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "92386c04-f48f-4e96-9d81-165d8aaa9548",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 357,
+  "height": 306,
+  "platformSettings": {},
+  "subMetas": {
+    "加十点体力内容2": {
+      "ver": "1.0.4",
+      "uuid": "fce90d9e-d3ef-4ddb-a51e-28a331b569aa",
+      "rawTextureUuid": "92386c04-f48f-4e96-9d81-165d8aaa9548",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 353,
+      "height": 303,
+      "rawWidth": 357,
+      "rawHeight": 306,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

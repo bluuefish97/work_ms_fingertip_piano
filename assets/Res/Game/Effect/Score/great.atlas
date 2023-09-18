@@ -1,0 +1,27 @@
+
+great.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star1
+  rotate: false
+  xy: 366, 24
+  size: 162, 165
+  orig: 162, 165
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 2, 2
+  size: 181, 187
+  orig: 181, 187
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 185, 5
+  size: 179, 184
+  orig: 179, 184
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,18 @@
+{
+  "package": "ldjz.xplay.kyx.nearme.gamecenter",
+  "name": "律动节奏",
+  "icon": "D:\\Project\\MusicPiano\\assets\\Icon\\Icon1.png",
+  "versionName": "1.0.1",
+  "versionCode": "101",
+  "minPlatformVersion": "1050",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "privatePath": "",
+  "certificatePath": "",
+  "disabledMode": "disabled is-disabled",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

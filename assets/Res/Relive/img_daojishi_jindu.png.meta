@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bf9190e8-9af5-4bb3-b8a4-93090f8f1f14",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 677,
+  "height": 678,
+  "platformSettings": {},
+  "subMetas": {
+    "img_daojishi_jindu": {
+      "ver": "1.0.4",
+      "uuid": "699cf7f7-99a5-4272-b27a-b8019a7b10d9",
+      "rawTextureUuid": "bf9190e8-9af5-4bb3-b8a4-93090f8f1f14",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 675,
+      "height": 678,
+      "rawWidth": 677,
+      "rawHeight": 678,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

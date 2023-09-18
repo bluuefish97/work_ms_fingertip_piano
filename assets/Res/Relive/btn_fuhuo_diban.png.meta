@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5649a2c5-68a8-4ac2-afff-dbc091749e0e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 394,
+  "height": 138,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_fuhuo_diban": {
+      "ver": "1.0.4",
+      "uuid": "e4f1e283-a56a-49a9-b301-7f59a470c887",
+      "rawTextureUuid": "5649a2c5-68a8-4ac2-afff-dbc091749e0e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 394,
+      "height": 138,
+      "rawWidth": 394,
+      "rawHeight": 138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

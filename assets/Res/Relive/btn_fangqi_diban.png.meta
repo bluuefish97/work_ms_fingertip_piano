@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0f1c42c8-16be-4d71-b12d-554c26ed1086",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 396,
+  "height": 116,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_fangqi_diban": {
+      "ver": "1.0.4",
+      "uuid": "991b6f28-59cd-46a9-9f57-b7f835ea1b6c",
+      "rawTextureUuid": "0f1c42c8-16be-4d71-b12d-554c26ed1086",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 396,
+      "height": 116,
+      "rawWidth": 396,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

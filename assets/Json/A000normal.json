@@ -1,0 +1,206 @@
+[
+    {
+        "time": 300,
+        "pressKey": "light"
+    },
+    {
+        "time": 600,
+        "pressKey": "light"
+    },
+    {
+        "time": 900,
+        "pressKey": "light"
+    },
+    {
+        "time": 1200,
+        "pressKey": "light"
+    },
+    {
+        "time": 1500,
+        "pressKey": "light"
+    },
+    {
+        "time": 1800,
+        "pressKey": "light"
+    },
+    {
+        "time": 2100,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 2700,
+        "pressKey": "light"
+    },
+    {
+        "time": 3000,
+        "pressKey": "light"
+    },
+    {
+        "time": 3300,
+        "pressKey": "light"
+    },
+    {
+        "time": 3600,
+        "pressKey": "light"
+    },
+    {
+        "time": 3900,
+        "pressKey": "light"
+    },
+    {
+        "time": 4200,
+        "pressKey": "light"
+    },
+    {
+        "time": 4500,
+        "pressKey": "light"
+    },
+    {
+        "time": 4800,
+        "pressKey": "light"
+    },
+    {
+        "time": 5100,
+        "pressKey": "light"
+    },
+    {
+        "time": 5400,
+        "pressKey": "light"
+    },
+    {
+        "time": 5700,
+        "pressKey": "light"
+    },
+    {
+        "time": 6000,
+        "pressKey": "light"
+    },
+    {
+        "time": 6300,
+        "pressKey": "light"
+    },
+    {
+        "time": 6600,
+        "pressKey": "light"
+    },
+    {
+        "time": 6900,
+        "pressKey": "light"
+    },
+    {
+        "time": 7200,
+        "pressKey": "light"
+    },
+    {
+        "time": 7500,
+        "pressKey": "light"
+    },
+    {
+        "time": 7800,
+        "pressKey": "light"
+    },
+    {
+        "time": 8100,
+        "pressKey": "light"
+    },
+    {
+        "time": 8400,
+        "pressKey": "light"
+    },
+    {
+        "time": 8700,
+        "pressKey": "light"
+    },
+    {
+        "time": 9000,
+        "pressKey": "light"
+    },
+    {
+        "time": 9300,
+        "pressKey": "light"
+    },
+    {
+        "time": 9600,
+        "pressKey": "light"
+    },
+    {
+        "time": 9900,
+        "pressKey": "light"
+    },
+    {
+        "time": 10200,
+        "pressKey": "light"
+    },
+    {
+        "time": 10500,
+        "pressKey": "light"
+    },
+    {
+        "time": 10800,
+        "pressKey": "light"
+    },
+    {
+        "time": 11100,
+        "pressKey": "light"
+    },
+    {
+        "time": 11400,
+        "pressKey": "light"
+    },
+    {
+        "time": 11700,
+        "pressKey": "light"
+    },
+    {
+        "time": 12000,
+        "pressKey": "light"
+    },
+    {
+        "time": 12300,
+        "pressKey": "light"
+    },
+    {
+        "time": 12600,
+        "pressKey": "light"
+    },
+    {
+        "time": 12900,
+        "pressKey": "light"
+    },
+    {
+        "time": 13200,
+        "pressKey": "light"
+    },
+    {
+        "time": 13500,
+        "pressKey": "heavy"
+    },
+    {
+        "time": 14400,
+        "pressKey": "light"
+    },
+    {
+        "time": 14700,
+        "pressKey": "light"
+    },
+    {
+        "time": 15000,
+        "pressKey": "light"
+    },
+    {
+        "time": 15300,
+        "pressKey": "light"
+    },
+    {
+        "time": 15600,
+        "pressKey": "light"
+    },
+    {
+        "time": 15900,
+        "pressKey": "light"
+    },
+    {
+        "time": 16200,
+        "pressKey": "light"
+    }
+]
